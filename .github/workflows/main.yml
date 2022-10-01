@@ -1,5 +1,5 @@
 name:weixin
-on；
+on:
 workflow_dispatch:
 schedule:
  -cron:'14 23 * * *'
